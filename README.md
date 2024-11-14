@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
+en vrai je parle français dans la vraie vie...
